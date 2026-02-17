@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-17 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Java | [📝](l1046_LastStoneWeight.md) |
 | 2026-02-17 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | Java | [📝](l941_ValidMountainArray.md) |
 | 2026-02-13 | 1822 | [Signofthe Productofan Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Java | [📝](l1822_SignoftheProductofanArray.md) |
 | 2026-02-13 | 1464 | [Maximum Productof Two Elementsinan Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Java | [📝](l1464_MaximumProductofTwoElementsinanArray.md) |
