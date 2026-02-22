@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-22 | 633 | [Sumof Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Java | [📝](l633_SumofSquareNumbers.md) |
 | 2026-02-21 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Java | [📝](l520_DetectCapital.md) |
 | 2026-02-20 | 434 | [Numberof Segmentsina String](https://leetcode.com/problems/number-of-segments-in-a-string/) | Java | [📝](l434_NumberofSegmentsinaString.md) |
 | 2026-02-19 | 1920 | [Build Arrayfrom Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Java | [📝](l1920_BuildArrayfromPermutation.md) |
