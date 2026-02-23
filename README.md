@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-23 | 121 | [Best Timeto Buyand Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | [📝](l121_BestTimetoBuyandSellStock.md) |
 | 2026-02-22 | 633 | [Sumof Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Java | [📝](l633_SumofSquareNumbers.md) |
 | 2026-02-21 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Java | [📝](l520_DetectCapital.md) |
 | 2026-02-20 | 434 | [Numberof Segmentsina String](https://leetcode.com/problems/number-of-segments-in-a-string/) | Java | [📝](l434_NumberofSegmentsinaString.md) |
