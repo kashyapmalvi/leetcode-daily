@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-25 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-02-24 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | [📝](l88_MergeSortedArray.md) |
 | 2026-02-23 | 121 | [Best Timeto Buyand Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | [📝](l121_BestTimetoBuyandSellStock.md) |
 | 2026-02-22 | 633 | [Sumof Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Java | [📝](l633_SumofSquareNumbers.md) |
