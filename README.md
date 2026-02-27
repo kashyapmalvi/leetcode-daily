@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-02-27 | 922 | [Sort Array By Parity I I](https://leetcode.com/problems/sort-array-by-parity-ii/) | Java | [📝](l922_SortArrayByParityII.md) |
 | 2026-02-26 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Java | [📝](l55_JumpGame.md) |
 | 2026-02-25 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-02-24 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | [📝](l88_MergeSortedArray.md) |
