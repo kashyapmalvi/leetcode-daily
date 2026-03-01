@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-01 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Java | [📝](l1672_RichestCustomerWealth.md) |
 | 2026-02-28 | 1662 | [Check If Two String Arraysare Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Java | [📝](l1662_CheckIfTwoStringArraysareEquivalent.md) |
 | 2026-02-28 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Markdown | [📝](l1572_MatrixDiagonalSum.md) |
 | 2026-02-27 | 922 | [Sort Array By Parity I I](https://leetcode.com/problems/sort-array-by-parity-ii/) | Java | [📝](l922_SortArrayByParityII.md) |
