@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-02 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Java | [📝](l766_ToeplitzMatrix.md) |
 | 2026-03-01 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Java | [📝](l1672_RichestCustomerWealth.md) |
 | 2026-02-28 | 1662 | [Check If Two String Arraysare Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Java | [📝](l1662_CheckIfTwoStringArraysareEquivalent.md) |
 | 2026-02-28 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Markdown | [📝](l1572_MatrixDiagonalSum.md) |
