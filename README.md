@@ -3,6 +3,8 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-03-20 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Java | [📝](l3731_FindMissingElements.md) |
+| 2026-03-20 | 1394 | [Find Lucky Integerinan Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Java | [📝](l1394_FindLuckyIntegerinanArray.md) |
 | 2026-03-02 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Java | [📝](l766_ToeplitzMatrix.md) |
 | 2026-03-01 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Java | [📝](l1672_RichestCustomerWealth.md) |
 | 2026-02-28 | 1662 | [Check If Two String Arraysare Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Java | [📝](l1662_CheckIfTwoStringArraysareEquivalent.md) |
