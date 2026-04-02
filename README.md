@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-04-02 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-04-01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | [📝](l268_MissingNumber.md) |
 | 2026-04-01 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Mysql | [📝](l175_CombineTwoTables.md) |
 | 2026-03-20 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Java | [📝](l3731_FindMissingElements.md) |
@@ -13,7 +14,6 @@
 | 2026-02-28 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Markdown | [📝](l1572_MatrixDiagonalSum.md) |
 | 2026-02-27 | 922 | [Sort Array By Parity I I](https://leetcode.com/problems/sort-array-by-parity-ii/) | Java | [📝](l922_SortArrayByParityII.md) |
 | 2026-02-26 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Java | [📝](l55_JumpGame.md) |
-| 2026-02-25 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-02-24 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Java | [📝](l88_MergeSortedArray.md) |
 | 2026-02-23 | 121 | [Best Timeto Buyand Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Java | [📝](l121_BestTimetoBuyandSellStock.md) |
 | 2026-02-22 | 633 | [Sumof Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Java | [📝](l633_SumofSquareNumbers.md) |
