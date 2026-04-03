@@ -3,9 +3,9 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-04-03 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Mysql | [📝](l175_CombineTwoTables.md) |
 | 2026-04-02 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-04-01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | [📝](l268_MissingNumber.md) |
-| 2026-04-01 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Mysql | [📝](l175_CombineTwoTables.md) |
 | 2026-03-20 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Java | [📝](l3731_FindMissingElements.md) |
 | 2026-03-20 | 1394 | [Find Lucky Integerinan Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | Java | [📝](l1394_FindLuckyIntegerinanArray.md) |
 | 2026-03-02 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | Java | [📝](l766_ToeplitzMatrix.md) |
