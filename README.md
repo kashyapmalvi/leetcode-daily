@@ -3,6 +3,7 @@
 
 | Date | # | Problem | Language | Solution |
 |------|---|---------|----------|----------|
+| 2026-04-04 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | Java | [📝](l561_ArrayPartition.md) |
 | 2026-04-03 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Mysql | [📝](l175_CombineTwoTables.md) |
 | 2026-04-02 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Java | [📝](l412_FizzBuzz.md) |
 | 2026-04-01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Java | [📝](l268_MissingNumber.md) |
